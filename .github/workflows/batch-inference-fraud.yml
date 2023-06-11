@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: feature-fraud-credit
+name: batch-inference-fraud-credit
 
 on:
   
