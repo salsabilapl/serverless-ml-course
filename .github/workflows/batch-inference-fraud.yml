@@ -1,4 +1,4 @@
-name: fraud-batch-inference-pipeline
+name: batch-inference-fraud
 
 on:
   workflow_dispatch:
